@@ -1,0 +1,487 @@
+A/B testing — A/B 测试
+Accredited — 认证的
+accuracy, rollout, iteration — 准确性、推广、迭代
+affiliate — 联盟营销
+agent harness — 代理框架
+agent loop — 智能体循环（感知-决策-行动）
+agentic — 能动性 / 代理式
+agentic RAG — 智能体式检索增强生成
+aggregation — 聚合
+albeit — 尽管
+Alignerr — 对齐者
+alignment — 对齐
+ambiguity — 歧义
+ambiguous — 模糊的
+ANN (Approximate Nearest Neighbor) — 近似最近邻
+appropriate — 适当的
+arguably — 可以说
+artifact / artifacts — 工件
+ASGI — 异步服务器网关接口
+ASR (Automatic Speech Recognition) — 自动语音识别
+assess — 评估
+async / await — 异步 / 等待
+attention mechanism — 注意力机制
+auditable — 可审计的
+augmentation, augment — 增强
+Authentic and genuine — 真实且真诚的
+autonomy — 自主性
+autoregressive model — 自回归模型
+autoscaling — 自动扩缩容
+backoff — 退避
+backpressure — 背压
+batching / continuous batching — 批处理 / 连续批处理
+benchmark — 基准测试
+bias & fairness — 偏见与公平性
+bias mitigation — 偏差缓解
+blueprint — 蓝图
+blunt — 钝的,直言不讳的
+blurry — 模糊的
+bottleneck — 瓶颈
+bottleneck identification — 瓶颈识别
+bundler — 打包器
+BYOK — 自带密钥
+cache invalidation — 缓存失效
+cadence — 节奏
+calibration — 校准
+callback — 回调
+canary deployment/release — 金丝雀发布
+canary,shadow,A/B,versioning,rollback — 金丝雀发布、影子发布、A/B测试、版本控制、回滚
+canonical (canonical semantic representation) — 规范的（规范语义表示）
+carved — 雕刻的；切开的
+catastrophic forgetting — 灾难性遗忘
+caveat — 注意事项
+chain of thought (CoT) — 思维链
+chain-of-thought — 思维链
+chain-of-thought prompting — 思维链提示
+chunking — 分块
+CI/CD (Continuous Integration / Continuous Delivery) — 持续集成/持续交付
+circuit breaker — 熔断器
+Citations — 引用
+cleanup — 清理
+clearly and crisply — 清晰简洁地
+closure — 闭包
+cml — CML（持续机器学习）
+code review — 代码评审
+cohort — 队列
+cold start — 冷启动
+collator — 整理器 / 数据整理器
+companion — 伴侣
+competency — 能力
+competitor — 竞争对手
+complementary — 互补的
+compliance — 合规
+compose — 组合
+composition — 组合
+compression — 压缩
+computer use — 计算机操作能力（模型直接操作 GUI）
+concurrency vs parallelism — 并发 vs 并行
+condense — 压缩
+confidence levels, citations, and user review — 置信度、引用、用户评价
+consolidate — 整合
+constraint — 约束
+context — 上下文
+Context assembly — 上下文组装
+context caching / prompt caching — 上下文缓存 / 提示词缓存
+context compaction / summarization — 上下文压缩 / 摘要
+context engineering — 上下文工程
+context rot / context degradation — 上下文衰减 / 长上下文性能退化
+context window — 上下文窗口
+contextual retrieval — 上下文感知检索
+continual learning — 持续学习
+contradiction — 矛盾
+corpus — 语料库
+correction rate — 纠错率
+correlating — 关联
+cosine similarity — 余弦相似度
+cost efficiency — 成本效率
+cost-performance ratio — 性价比
+CoT (Chain of Thought) — 思维链
+counterpart — 对应物
+cross-modal alignment — 跨模态对齐
+curate / curated — 策划 / 精选
+curriculum learning — 课程学习
+cursor — 游标
+DAG — 有向无环图
+data contamination — 数据污染（测试集泄漏）
+data curation — 数据策划
+data drift — 数据漂移
+Data ingestion — 数据摄取
+data parallelism — 数据并行
+data pipeline — 数据管道
+data sovereignty — 数据主权
+deadlock — 死锁
+decision making — 决策
+decomposition — 分解
+deficiency addendum — 缺陷补充说明
+dependency injection — 依赖注入
+deterministic behavior — 确定性行为
+diffusion model — 扩散模型
+distill-wiki-pipeline — 维基蒸馏管道
+distillation — 知识蒸馏
+distillation (knowledge distillation) — 知识蒸馏
+distinction — 区分
+distortion — 失真
+distro — 发行版
+document parsing — 文档解析
+document store — 文档存储
+dormant — 休眠的
+DPO (Direct Preference Optimization) — 直接偏好优化
+drift (data / model drift) — 数据漂移 / 模型漂移
+dvc — 数据版本控制
+EDA — 探索性数据分析
+EDD (Estimated Delivery Date) — 预计交付日期
+edge inference — 边缘端推理
+embedding — 向量嵌入
+Embedding generation — 嵌入生成
+emergent ability — 涌现能力
+emphasize — 强调
+empower — 赋能，授权
+encapsulation — 封装
+enumerate — 枚举
+envision — 设想
+ephemeral — 短暂的；临时的
+episodic — 情节性的 / 片段式的
+escalate — 升级
+escalation — 升级
+ETA (Estimated Time of Arrival) — 预计到达/完成时间
+ETL (Extract, Transform, Load) — 抽取-转换-加载
+eval / evals (evaluation suite) — 评估集 / 评测套件
+Evaluation and monitoring — 评估和监测
+eventual consistency — 最终一致性
+evolve — 演进,发展, 演化
+evolving thesis — 演化中的论点 / 持续发展的主张
+excalidraw diagram — 示例图（架构草图）
+execution — 执行
+executor / actor — 执行器
+experiment tracking — 实验追踪
+experimentation — 实验
+exposure — 暴露
+fabric (Microsoft Fabric) — Microsoft Fabric（微软数据平台）
+fabricate — 捏造
+factual accuracy — 事实准确性
+failover — 故障转移
+failure tolerance — 容错性
+feature flag — 特性开关
+feature store — 特征存储
+feedback loop — 反馈循环
+few-shot prompting — 少样本提示
+fine-tuning — 微调
+footage — 影像素材
+forgo — 放弃
+foundation model — 基础模型
+fragment — 片段
+freshness (data freshness) — 数据新鲜度
+fuel — 燃料
+function calling — 函数调用
+fusion — 融合
+GAN (Generative Adversarial Network) — 生成对抗网络
+gauging — 测量
+genre — 体裁
+goal-driven — 目标驱动
+golden dataset — 黄金标准数据集
+governance — 治理
+GPU utilization — GPU 利用率
+graceful degradation — 优雅降级
+granular — 细粒度的
+GraphRAG — 图检索增强生成
+grounding — 知识锚定
+GRPO (Group Relative Policy Optimization) — 组相对策略优化
+guardrail — 护栏（约束模型行为的规则层）
+guardrails — 安全护栏
+hallucination — 幻觉
+harnesses — 利用 / 框架支持
+headshot — 头部特写照片,常用于简历或社交媒体
+health check — 健康检查
+HNSW (Hierarchical Navigable Small World) — 分层可导航小世界（向量索引算法）
+hotfix — 热修复
+human evaluation — 人工评估
+human-in-the-loop (HITL) — 人类参与回路
+hustle — 忙碌奔波
+hybrid search — 混合搜索
+hyperparameters — 超参数
+hypothesis — 假设
+idempotent / idempotency — 幂等 / 幂等性
+identical — 雷同
+image captioning — 图像描述生成
+immutability — 不可变性
+indexing — 建立索引
+inference — 推断
+inference time — 推理时间
+ingest / parse / extract / validate / reconcile — 摄取 / 解析 / 提取 / 验证 / 调和
+ingestion — 数据摄取
+instruction tuning — 指令微调
+INT8 / INT4 / FP8 — 8位/4位整数量化、8位浮点量化
+intact — 完整的
+integration test — 集成测试
+intensive — 密集的
+interpretability — 可解释性
+intervention — 干预
+jailbreak — 越狱（绕过安全限制）
+kick off — 启动
+knowledge base — 知识库
+KV cache (Key-Value Cache) — 键值缓存
+large language model (LLM) — 大语言模型
+latency — 延迟
+latent space — 潜空间
+lavish — 奢华的
+leads — 线索
+ledger — 账本
+legit — 靠谱的
+leverage — 利用 / 杠杆作用
+liaison — 联络
+lineage of trained models — 训练模型的谱系
+linter — 静态检查器
+LLM (Large Language Model) — 大语言模型
+LLM generation — LLM 生成
+LLM-as-judge — 以大模型作为评判者
+LLMOps — 大模型运维
+load balancer — 负载均衡
+logits — 逻辑输出 / logits
+long-horizon task — 长周期任务
+long-term memory — 长期记忆
+LoRA (Low-Rank Adaptation) — 低秩适配
+LoRA (Low-Rank Adaptation) — 低秩适配（参数高效微调）
+LSP — Language Server Protocol
+matrix — 矩阵
+MCP (Model Context Protocol) — 模型上下文协议
+memoization — 记忆化
+memoization — 记忆化（缓存函数结果）
+memory — 记忆
+meridian — 子午线
+metadata — 元数据
+metrics — 指标
+middleware — 中间件
+migration — 数据迁移
+mitigate — 缓解
+mlflow model registry — MLflow 模型注册表
+MLOps — 机器学习运维
+model compression — 模型压缩
+model registry — 模型注册表
+model router — 模型路由器（按任务分流不同模型）
+model serving — 模型服务化部署
+MoE (Mixture of Experts) — 混合专家模型
+monetization — 变现
+monolithic — 单体
+monorepo — 单体仓库
+multi-agent — 多智能体
+multi-agent collaboration — 多智能体协作
+Multi-tenancy — 多租户
+multimodal — 多模态
+Muse — AI 创意工具,缪斯,沉思；冥想
+MVP-Minimum Viable Product — 最小可行产品
+namespace — 命名空间
+noise — 噪声
+Normalized Encoding — 规范化编码
+notwithstanding — 尽管 / 仍然
+nuance — 细微差别
+Obscured — 模糊
+observability — 可观测性
+observation — 观察
+observer — 观察器
+on-premise — 本地部署
+ontology — 本体论
+opaque — 不透明
+open-source model — 开源模型
+OpenTelemetry — OpenTelemetry（可观测性框架）
+orchestration — 编排
+orchestrator — 编排器
+outreach — 外联
+overhead — 开销
+panic — 恐慌
+parallelism — 并行
+parquet — Parquet（列式存储文件格式）
+PEFT (Parameter-Efficient Fine-Tuning) — 参数高效微调
+penetration — 渗透率
+perceive — 感知
+periodic — 周期性的
+perspective — 视角
+persuasive — 有说服力的
+pertain — 涉及
+pipeline parallelism — 流水线并行
+plan-and-execute — 先规划后执行
+planner — 规划器
+planning — 规划
+policy — 策略
+polyfill — 垫片
+polymorphism — 多态
+post-training — 后训练
+PPO (Proximal Policy Optimization) — 近端策略优化
+prediction — 预测
+preference data — 偏好数据
+preliminary — 初步的；预备的
+prerequisite — 前提条件
+prestige — 声望
+pretraining — 预训练
+pristine — 原始纯净的 / 完好无损的
+procedural — 程序性的
+Prometheus,Grafana — Prometheus（监控与告警系统）, Grafana（可视化分析平台）
+prompt — 提示词
+prompt engineering — 提示词工程
+prompt injection — 提示词注入（安全风险）
+prone to — 易于…的，倾向于…的
+proposition chunking — 命题分块
+proprietary model — 专有模型
+pruning — 剪枝
+pull request — 拉取请求
+QLoRA — 量化低秩适配
+QLoRA (Quantized LoRA) — 量化低秩适配
+quantization — 量化
+query rewriting / query expansion — 查询重写 / 查询扩展
+race condition — 竞态条件
+RAG (Retrieval-Augmented Generation) — 检索增强生成
+RAG-Fusion — 融合式检索增强生成
+rambling — 冗长散乱的
+ramp up — 逐步提升
+rampling — 斜坡
+rate limiting — 限流
+re-ranking / reranker — 重排序 / 重排模型
+ReAct (Reason + Act) — 交互式推理与行动
+reasoning — 推理
+reasoning model — 推理模型
+recap — 重述
+Reconciliation — 和解
+recursion — 递归
+red teaming — 红队测试（对抗性安全测试）
+redundancy — 冗余
+regression — 回归
+regression testing (model regression) — 模型回归测试
+reinforcement (learning) — 强化（学习）
+relevance — 相关性
+reliability — 可靠性
+reliability / observability — 可靠性/可观测性
+remediation — 修复
+replication — 复制
+retrieval — 检索
+retrieval, reasoning, and presentation — 检索、推理、呈现
+retrospective — 回顾,复盘, 反思会议
+retry with exponential backoff — 指数退避重试
+revert — 回滚
+reward hacking — 奖励作弊 / 奖励破解
+reward model — 奖励模型
+rigorous — 严谨的
+RLAIF (RL from AI Feedback) — 基于 AI 反馈的强化学习
+RLHF (Reinforcement Learning from Human Feedback) — 基于人类反馈的强化学习
+robust — 健壮的
+rollback — 回滚
+rubric — 评分标准
+sampling — 采样
+sandbox / sandboxing — 沙箱 / 沙箱隔离
+sanity check — 合理性检查 / 基本健全性检查
+saturation — 饱和
+scalability — 可扩展性
+scaling law — 缩放定律
+schema — 模式 / 架构
+schema validation — 模式校验
+scout — 侦察器
+segmentation — 分割
+self-attention — 自注意力
+self-consistency — 自一致性（多路径投票）
+self-reflection / self-critique — 自我反思 / 自我批判
+semantic — 语义的
+sentiment analysis — 情感分析
+serialization — 序列化
+serialization / deserialization — 序列化 / 反序列化
+SFT (Supervised Fine-Tuning) — 监督微调
+shadow mode, deployment, scoring (inference) — 影子模式，影子部署，影子评分（推理）
+sharding — 分片
+shelved plan — 搁置计划
+short-term memory — 短期记忆
+shuffle — 洗牌（随机打乱）
+similarity search — 相似度搜索
+simultaneously — 同时
+single source of truth — 单一事实来源
+sketchy rendering - rough.js — 粗略的
+skill (agent skill) — 技能（可复用能力模块）
+slop — 垃圾内容
+smoke test — 冒烟测试
+solitaire — 纸牌游戏
+SOP (Standard Operating Procedure) — 标准操作程序
+source of truth — 事实来源
+sparse activation — 稀疏激活
+sparse-dense hybrid search — 稀疏-密集混合搜索
+specification — 规格说明
+speculative decoding — 投机解码
+speech-to-text (STT / ASR) — 语音转文本 / 自动语音识别
+speechSynthetic — 语音合成
+spikes — 尖峰（突增）；脉冲；技术探针
+spinning up — 启动
+spread out — 分散
+SRE — 站点可靠性工程
+staggered opacity keyframes — 交错不透明度关键帧
+stale — 陈旧的 / 过期的
+stall — 停滞,货摊
+state — 状态
+state machine — 状态机
+stateless / stateful — 无状态 / 有状态
+steer — 引导
+stow — 装载，存放
+streaming — 流式输出
+streamline — 精简流程
+structured output / JSON mode — 结构化输出 / JSON 模式
+stuck — 卡住
+subagent — 子智能体
+substantial — 大量的
+supplement — 补充
+swarm — 集群
+sweep — 扫描,梳理
+synthetic data — 合成数据
+system prompt — 系统提示
+system-user-assistant roles — 系统-用户-助手角色分工
+task decomposition — 任务分解
+taxonomy — 分类学
+teacher-student model — 师生模型（蒸馏范式）
+temperature — 温度参数
+tensor parallelism — 张量并行
+terraform — 基础设施即代码工具
+terse — 简洁的
+test-time compute / inference-time scaling — 测试时计算 / 推理时扩展
+text-to-speech (TTS) — 文本转语音
+thesis — 论文 / 论点
+thread safety — 线程安全
+threshold — 阈值
+throttling — 节流
+throughput — 吞吐量
+token — 词元
+token budget — token 预算
+tokenizer — 分词器
+tool calling / tool use — 工具调用
+tool use — 工具使用
+top-K — 前 K 个
+ToT (Tree of Thought) — 思维树
+TPS (Tokens Per Second) — 每秒 token 数
+TPS (Tokens Per Second) — 每秒生成 token 数
+traceability — 可追溯性
+tracing — 链路追踪
+tradeoff / trade-off — 权衡
+trajectory — 轨迹
+transaction — 事务
+transcript — 转录本
+transformer — 变换器（Transformer 架构）
+transpiler — 转译器
+triage — 分诊,优先级排序, 分类, 筛选
+trustworthy — 可信的
+TTFT (Time To First Token) — 首 token 延迟
+TTS (Text-to-Speech) — 文本转语音
+type hint — 类型提示
+unit test — 单元测试
+validation — 验证
+vault — 金库
+vector database — 向量数据库
+verbatim — 逐字地 / 一字不差地
+verdict — 结论 / 判定
+verification — 验证
+vetted — 经过审查的
+VLM (Vision-Language Model) — 视觉语言模型
+voice-interrogation mechanic — 语音审讯机制
+volatile — 易失性
+warp — 扭曲
+weaver — 编织器（多源信息整合模块）
+Whisper — OpenAI开发的自动语音识别（ASR）模型
+workflow — 工作流
+world model — 世界模型
+XAI (Explainable AI) — 可解释人工智能
+YOLO (v8,11) — YOLO（You Only Look Once，一种实时目标检测算法）
+zero-downtime — 零停机
+zero-shot — 零样本
+zero-shot prompting — 零样本提示
+

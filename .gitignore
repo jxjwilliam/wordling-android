@@ -1,0 +1,12 @@
+.gradle/
+.gradle-user-home/
+.uv-cache/
+.uv-data/
+build/
+app/build/
+local.properties
+*.iml
+outputs/Wordling-source.zip
+outputs/Wordling-demo.png
+outputs/Wordling-paused-demo.png
+.DS_Store
