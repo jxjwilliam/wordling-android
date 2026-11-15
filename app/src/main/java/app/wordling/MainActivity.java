@@ -115,18 +115,23 @@ public class MainActivity extends Activity {
 
         LinearLayout controls = new LinearLayout(this);
         controls.setGravity(Gravity.CENTER);
+        Button previous = button("上一词", false);
+        previous.setOnClickListener(v -> previousWord());
+        controls.addView(previous, new LinearLayout.LayoutParams(0, dp(50), 1));
         pauseButton = button("暂停", true);
         pauseButton.setOnClickListener(v -> togglePause());
-        controls.addView(pauseButton, new LinearLayout.LayoutParams(0, dp(50), 1));
+        LinearLayout.LayoutParams pauseLp = new LinearLayout.LayoutParams(0, dp(50), 1);
+        pauseLp.leftMargin = dp(6);
+        controls.addView(pauseButton, pauseLp);
         Button replay = button("重听", false);
         replay.setOnClickListener(v -> replayCurrent());
-        LinearLayout.LayoutParams side = new LinearLayout.LayoutParams(0, dp(50), 1);
-        side.leftMargin = dp(8);
-        controls.addView(replay, side);
-        Button next = button("下一个", false);
+        LinearLayout.LayoutParams replayLp = new LinearLayout.LayoutParams(0, dp(50), 1);
+        replayLp.leftMargin = dp(6);
+        controls.addView(replay, replayLp);
+        Button next = button("下一词", false);
         next.setOnClickListener(v -> nextWord());
         LinearLayout.LayoutParams nextLp = new LinearLayout.LayoutParams(0, dp(50), 1);
-        nextLp.leftMargin = dp(8);
+        nextLp.leftMargin = dp(6);
         controls.addView(next, nextLp);
         page.addView(controls, lp(-1, dp(50), 0, 0, 0, 8));
 
